@@ -33,11 +33,13 @@ The **To-Do List Application** is a simple and efficient tool to help you manage
 
 2. click on the generated link.
 
+3. Note:- Sample data is available for user knowledge. You can Edit it by clicking on Edit icon or You can simply delete in by clicking on Trash icon.
+
 ### Key Functions:
 - **Add a Task:** Click the "Add Task" button and provide task details.
 - **Edit a Task:** Click the edit icon next to the task.
 - **Delete a Task:** Click the delete icon next to the task.
-- **Mark Complete:** Click the checkbox for the task.
+- **Mark Complete:** Click the "X" for the toggle.
 
 ---
 
